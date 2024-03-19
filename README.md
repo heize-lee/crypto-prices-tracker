@@ -1,7 +1,3 @@
-# likelion-backend_heize
+# likelion-backend-9
 
-## 모델 실습
-
-1. ### Text Generation
-2. ### Image Generation
-3. ### Vision
+# Main Project
