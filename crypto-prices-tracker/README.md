@@ -22,19 +22,19 @@ pip install pyupbit #Python Wrapper for Upbit API
 
 * 0.0.1
   * feat: Upbit Historical Data Viewer 기능 추가
-- Upbit 라이브러리를 사용하여 코인의 일일 가격 데이터를 조회하고 시각화하는 기능 추가
-- 사용자가 코인 심볼과 시작 날짜를 입력할 수 있음
-- 선택한 날짜를 기준으로 7일간의 가격 데이터를 조회하여 그래프로 표시
+  - Upbit 라이브러리를 사용하여 코인의 일일 가격 데이터를 조회하고 시각화하는 기능 추가
+  - 사용자가 코인 심볼과 시작 날짜를 입력할 수 있음
+  - 선택한 날짜를 기준으로 7일간의 가격 데이터를 조회하여 그래프로 표시
 
 * 0.0.2
   * feat: Binance Historical Data Viewer 기능 추가
-- Binance API를 사용하여 코인의 일일 가격 데이터를 조회하고 시각화하는 기능 추가
-- 사용자가 코인 심볼과 시작 날짜를 입력할 수 있음
-- 선택한 날짜를 기준으로 7일간의 가격 데이터를 조회하여 그래프로 표시
+  - Binance API를 사용하여 코인의 일일 가격 데이터를 조회하고 시각화하는 기능 추가
+  - 사용자가 코인 심볼과 시작 날짜를 입력할 수 있음
+  - 선택한 날짜를 기준으로 7일간의 가격 데이터를 조회하여 그래프로 표시
 
   * feat: 환율 조회 기능 추가
-- 네이버 금융에서 USD/KRW 환율을 조회하는 기능 추가
-- 사용자가 날짜를 선택하여 해당 날짜의 환율을 확인할 수 있음
+  - 네이버 금융에서 USD/KRW 환율을 조회하는 기능 추가
+  - 사용자가 날짜를 선택하여 해당 날짜의 환율을 확인할 수 있음
 
 ## 정보
 [https://github.com/heize-lee/crypto-prices-tracker](https://github.com/heize-lee/crypto-prices-tracker)
